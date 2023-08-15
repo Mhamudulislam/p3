@@ -1,0 +1,53 @@
+html
+{
+    
+    background: url("../Image/gokuvigita.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    border: 50px;
+    
+}
+h1
+{
+    background-color: rgb(61, 74, 85);
+    color: rgb(0, 255, 170);
+    text-align: center;
+    text-align: center;
+}
+h2
+{
+    background-color: rgb(53, 99, 139);
+    color: rgb(199, 218, 118);
+    text-align: center;
+}
+h3
+{
+    background-color: rgb(52, 141, 29);
+    color: rgb(39, 4, 236);
+    text-align: center;
+}
+h4
+{
+    background-color: rgb(177, 65, 31);
+    color: antiquewhite;
+    text-align: center;
+}
+h5
+{
+    background-color: rgb(179, 221, 27);
+    color: rgb(32, 58, 88);
+    text-align: center;
+}
+h6
+{
+    background-color: rgb(190, 189, 92);
+    color: rgb(133, 44, 63);
+    text-align: center;
+}
+p
+{
+    background-color: rgb(180, 194, 121);
+    color: #272e53;
+}
+
+
